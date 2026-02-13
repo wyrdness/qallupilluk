@@ -1,10 +1,8 @@
 {
-  "category": "ENTITY_SPIRIT",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/qallupilluk",
     "maintainers": [
       {
@@ -18,251 +16,110 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "qallupilluk",
     "name": "Qallupilluk",
-    "aliases": [
-      {
-        "name": "Qalupalik",
-        "language": "Inuit",
-        "meaning": "Regional variant spelling"
-      },
-      {
-        "name": "Qaллупиллук",
-        "language": "Inuktitut",
-        "meaning": "Inuktitut spelling"
-      }
-    ],
+    "aliases": [],
     "category": "ENTITY_SPIRIT",
-    "subcategory": "Water Spirit",
+    "subcategory": "Child-snatcher",
     "tags": [
-      "inuit-folklore",
-      "water-spirit",
-      "child-kidnapper",
-      "cautionary-tale",
-      "arctic",
-      "ice-danger",
-      "teaching-story"
+      "&-themes"
     ],
-    "status": "mythological",
+    "status": "documented",
     "description": {
-      "summary": "Inuit creature that lives in water and kidnaps disobedient children who wander too close to ice edges and open water, carrying them away in an amauti (parka pouch).",
-      "full": "Qallupilluk is a humanoid creature from Inuit folklore that lives under the ice and in cold Arctic waters. Described as having greenish skin, long dark hair, and sometimes scales, the Qallupilluk lurks beneath the ice waiting for children who disobey their parents and wander too close to water's edge. It hums to lure children closer, then snatches them and carries them away in its amauti (the pouch of a traditional Inuit parka used to carry babies). This creature serves as a cautionary tale to keep Inuit children away from the very real dangers of ice edges and open water in the Arctic, where falling through ice can be fatal. The story teaches water safety and the importance of obedience in a harsh environment where such lessons can mean survival."
+      "summary": "Qallupilluk is a humanoid creature from Inuit folklore that lives under the ice and in cold Arctic waters.",
+      "full": "Qallupilluk is a humanoid creature from Inuit folklore that lives under the ice and in cold Arctic waters. Described as having greenish skin, long dark hair, and sometimes scales, the Qallupilluk lurks beneath the ice waiting for children who disobey their parents and wander too close to water's edge. It hums to lure children closer, then snatches them and carries them away in its amauti (the pouch of a traditional Inuit parka used to carry babies). This creature serves as a cautionary tale to keep Inuit children away from the very real dangers of ice edges and open water in the Arctic, where falling through ice can be fatal."
     },
     "etymology": {
-      "origin": "Inuktitut language, various regional spellings",
-      "meaning": "Creature of the water/ice",
-      "regional_variations": "Qallupilluk, Qalupalik, and other spellings across Inuit regions"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "ENTITY_SPIRIT",
-      "type": "Water Spirit",
-      "subtype": "Child-snatcher",
-      "variant": "Inuit/Arctic"
+      "type": "Child-snatcher",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "kelpie",
-        "name": "Kelpie",
-        "relationship": "similar",
-        "description": "Scottish water spirit that also drowns victims"
-      },
-      {
-        "id": "rusalka",
-        "name": "Rusalka",
-        "relationship": "similar",
-        "description": "Slavic water spirit, also dangers children near water"
-      },
-      {
-        "id": "each-uisge",
-        "name": "Each-uisge",
-        "relationship": "similar",
-        "description": "Celtic water horse that drowns people"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "features": [
-        {
-          "feature": "Skin",
-          "description": "Greenish skin, suggesting aquatic adaptation",
-          "frequency": "common"
-        },
-        {
-          "feature": "Hair",
-          "description": "Long, dark hair often described as wet or dripping",
-          "frequency": "common"
-        },
-        {
-          "feature": "Scales",
-          "description": "Sometimes described with fish-like scales",
-          "frequency": "occasional"
-        },
-        {
-          "feature": "Amauti",
-          "description": "Carries children away in traditional parka pouch",
-          "frequency": "always"
-        },
-        {
-          "feature": "Humanoid form",
-          "description": "Generally human-shaped but with aquatic features",
-          "frequency": "always"
-        }
-      ],
-      "morphology": "Humanoid water-dwelling creature with aquatic adaptations"
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "Underwater dwelling",
-        "description": "Lives beneath ice and in cold Arctic waters",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Humming/singing",
-        "description": "Hums to lure children closer to water",
-        "frequency": "common",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Child detection",
-        "description": "Knows when children are near water alone",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      },
-      {
-        "ability": "Snatching",
-        "description": "Quickly grabs children who come too close",
-        "frequency": "always",
-        "evidence_level": "mythological"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "any time children are near water",
-      "disposition": "malevolent toward disobedient children",
-      "habitat_preference": [
-        "Under ice",
-        "Cold water",
-        "Ice edges",
-        "Open water in Arctic regions"
-      ],
-      "patterns": [
-        "Lurks under ice and at water edges",
-        "Hums to attract children",
-        "Snatches children who wander too close",
-        "Carries victims away in amauti pouch",
-        "Targets specifically disobedient children near water alone"
-      ],
-      "purpose": "Cautionary tale for water safety and obedience"
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Inuit territories across the Arctic regions",
-      "continents": ["North America"],
-      "countries": ["Canada", "Greenland", "United States (Alaska)"],
-      "regions": [
-        "Arctic Canada",
-        "Nunavut",
-        "Greenland",
-        "Alaska",
-        "Inuit territories"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-colonial",
+        "date": "Unknown",
         "circa": true,
-        "source": "Inuit oral traditions"
-      },
-      "cultural_period": "Traditional Inuit teaching stories, ongoing",
-      "modern_presence": "Still told in Inuit communities and featured in children's books"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Inuit traditional knowledge and child-rearing practices",
-      "earliest_accounts": "Pre-colonial oral traditions",
-      "folklore_connections": "Part of broader category of water spirits and child-warning tales"
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "modern_era": "Qallupilluk stories continue to be told in Inuit communities and have been featured in modern Inuit children's books and educational materials. The story remains relevant for teaching water safety."
+    "timeline": []
   },
-
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Inuit oral storytelling",
-        "Water safety education",
-        "Parenting and child obedience teachings"
-      ],
-      "stories": [
-        "Children warned to stay away from ice edges",
-        "Tales of children taken by Qallupilluk",
-        "Stories emphasizing listening to parents' warnings"
-      ],
-      "beliefs": "Qallupilluk enforces parental authority and teaches critical water safety in dangerous Arctic environment"
-    },
-    "indigenous": {
-      "cultures": [
-        "Inuit peoples",
-        "Nunavut communities",
-        "Greenlandic Inuit"
-      ],
-      "significance": "Critical teaching tool for child safety around ice and water, which poses serious danger in Arctic environments",
-      "sensitivity_note": "This is a living Inuit teaching tradition that serves practical child safety purposes. It should be treated with respect as functional cultural knowledge, not merely as folklore or scary story.",
-      "respect_guidelines": "Recognize the practical safety function of this story in Inuit culture. Consult Inuit communities for proper cultural context and representation. Understand this as part of parenting and community safety practices."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "Modern Inuit children's books",
-        "Arctic folklore collections",
-        "Educational materials about Inuit culture"
-      ],
-      "other": [
-        "Featured in cultural education programs",
-        "Used in water safety education",
-        "Preserved in Inuit cultural centers"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
-  "symbolism": {
-    "themes": [
-      "Water danger",
-      "Ice safety",
-      "Consequences of disobedience",
-      "Parental authority",
-      "Arctic survival",
-      "Childhood safety education"
-    ],
-    "teaching_purpose": "Keeps children safe by teaching them to stay away from dangerous ice edges and open water, and to obey parental warnings"
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "cultural_sensitivity": {
-    "note": "Qallupilluk is a functional teaching story within Inuit culture that addresses very real and serious dangers to children in Arctic environments. Ice edges and open water pose life-threatening risks, and this story serves as an effective way to communicate that danger to children. It should be understood and respected as living cultural practice with practical application, not merely as folklore or entertainment.",
-    "guidance": "When discussing Qallupilluk, acknowledge its role in Inuit child-rearing and safety education. Recognize the serious environmental dangers it addresses. Consult with Inuit communities for proper cultural context and avoid trivializing or sensationalizing this teaching tradition."
-  },
-
-  "sources": [
-    {
-      "id": "inuit-oral-traditions",
-      "type": "oral tradition",
-      "title": "Inuit Oral Teaching Stories",
-      "notes": "Traditional stories passed through generations for child education"
-    },
-    {
-      "id": "inuit-children-literature",
-      "type": "book",
-      "title": "Modern Inuit Children's Books",
-      "notes": "Contemporary publications preserving traditional stories"
-    }
-  ]
+  "sources": []
 }
