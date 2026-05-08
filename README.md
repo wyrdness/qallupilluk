@@ -1,317 +1,155 @@
 # Qallupilluk
 
-> *"The water-dweller who hums beneath the ice, waiting for disobedient children."*
+> Qallupilluk is a water-dwelling humanoid being from Inuit folklore that lurks beneath Arctic sea ice to abduct children who wander too close to the water's edge, functioning as a cautionary tradition protecting children from the real dangers of Arctic ice.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Status](https://img.shields.io/badge/status-mythological-purple)]()
-[![Cultural Sensitivity](https://img.shields.io/badge/cultural-Inuit_tradition-red)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-08-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `qallupilluk` |
 | **Category** | ENTITY_SPIRIT |
-| **Classification** | Water Spirit / Child-snatcher |
-| **Origin** | Inuit folklore |
-| **Primary Region** | Arctic (Canada, Greenland) |
-| **Status** | Traditional Inuit teaching story |
+| **Subcategory** | Child-stealing water spirit / cautionary being |
+| **First recorded** | 2010-01-01 |
+| **Primary range** | The Qallupilluk tradition is documented in Inuit communities across Arctic Canada (especially Nunavut) and Alaska |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-Qallupilluk is a humanoid creature from Inuit folklore that lives under the ice and in cold Arctic waters. Described as having greenish skin, long dark hair, and sometimes scales, the Qallupilluk lurks beneath the ice waiting for children who disobey their parents and wander too close to water's edge.
-
-It hums to lure children closer, then snatches them and carries them away in its amauti (the pouch of a traditional Inuit parka used to carry babies). This creature serves as a cautionary tale to keep Inuit children away from the very real dangers of ice edges and open water in the Arctic, where falling through ice can be fatal.
+The Qallupilluk (plural: Qallupilluit) is a water spirit from Inuit oral tradition, found particularly in Nunavut and Alaska. The creature dwells beneath Arctic sea ice and along the coastlines, waiting for children who disobey their parents and wander too close to the ice edge. To lure children closer, it emits an ethereal hum. When a child is near enough, the Qallupilluk snatches them and carries them away — in many accounts, concealing them in the amautik (the large hood-pouch of a traditional Inuit woman's parka used to carry infants). Descriptions are consistent in broad outline: the creature has greenish slimy skin, long dark hair and extended fingernails, webbed hands, and sometimes scales or fins, and predominantly presents as feminine. Some accounts attribute a shapeshifting ability (called pilutitaminik) and a paralyzing shriek from one flipper. The legend serves a vital protective function in the Arctic environment, where falling through ice or being swept into open water is a genuine and frequent cause of child mortality. Some traditional accounts also describe children being voluntarily given to the Qallupilluik during times of community hardship, with the creature keeping them safe and returning them later — suggesting a more complex relationship between the community and the spirit than simple predation. The legend has been preserved in Inuit oral tradition and has entered contemporary children's literature and media, making it one of the most widely known Inuit folklore figures outside Indigenous communities.
 
 ---
+## Names & Aliases
 
-## ⚠️ Cultural Sensitivity Note
+| Name | Origin | Meaning |
+|---|---|---|
+| Qalupalik | Inuktitut / Nunavut, Canada | Variant spelling in common usage |
+| Qallupilluit | Inuktitut | Plural form of Qallupilluk |
 
-**This is a functional teaching story within Inuit culture.**
+## Etymology
 
-Qallupilluk addresses very real and serious dangers to children in Arctic environments. Ice edges and open water pose life-threatening risks, and this story serves as an effective way to communicate that danger to children.
-
-**This should be understood and respected as:**
-- Living cultural practice with practical application
-- Child safety education tool
-- Traditional parenting wisdom
-- NOT merely folklore or entertainment
-
-**Respect Guidelines:**
-- Acknowledge its role in Inuit child-rearing and safety education
-- Recognize the serious environmental dangers it addresses
-- Consult Inuit communities for proper cultural context
-- Avoid trivializing or sensationalizing this teaching tradition
+- **Origin**: Inuktitut word from Inuit oral tradition of the Arctic regions of Canada and Alaska
+- **Meaning**: The precise etymology is not standardized in academic sources; the name is associated with the creatures' domain of water and ice and their humming call
+- **First use**: Pre-contact Inuit oral tradition; written documentation by researchers during the 20th century
 
 ---
+## Related Phenomena
 
-## Etymology & Names
-
-### Primary Name
-- **Qallupilluk** — Inuktitut word for the creature. Regional variations include Qalupalik and other spellings across Inuit regions.
-
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Qalupalik | Inuit | Regional variant |
-| Qaллупиллук | Inuktitut | Inuktitut syllabic spelling |
+- [Water Horses / Kelpies](../water-horses/) — _similar_: Scottish water spirit that also lures children and drowns them; similar cautionary function
+- [Jengu](../jengu/) — _similar_: Water spirits of the Sawa peoples of Cameroon; broadly similar water-being archetype
 
 ---
+## Physical Description
 
-## Classification
+- **Coloration**: greenish, slimy skin
+- **Morphology**: Aquatic humanoid, broadly feminine, combining human and fish-like or amphibian characteristics. Capable of shapeshifting (pilutitaminik) in some accounts.
 
-### Taxonomy
-```
-Category: ENTITY_SPIRIT
-├── Type: Water Spirit
-├── Subtype: Child-snatcher
-└── Variant: Inuit/Arctic
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Kelpie](/kelpie) | Similar | Scottish water spirit |
-| [Rusalka](/rusalka) | Similar | Slavic water spirit |
-| [Each-uisge](/each-uisge) | Similar | Celtic water horse |
-
----
-
-## Characteristics
-
-### Physical Description
-
-**Appearance**: Humanoid with aquatic features
-**Skin**: Greenish, suggesting aquatic adaptation
-**Hair**: Long, dark, often wet or dripping
-**Scales**: Sometimes described with fish-like scales
-**Amauti**: Carries children in traditional parka pouch
-
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Greenish skin | Aquatic adaptation coloring | Common |
-| Long hair | Wet, dripping dark hair | Common |
-| Scales | Fish-like scales | Occasional |
-| Amauti pouch | Carries stolen children | Always |
-| Humanoid form | Generally human-shaped | Always |
+|---|---|---|
+| Greenish slimy skin | The creature's skin is described as green and slimy, reflecting its aquatic nature | common |
+| Long dark hair | Long hair, often matted or flowing | common |
+| Extended fingernails | Unnaturally long fingernails, reflecting predatory and non-human nature | common |
+| Webbed hands | Hands with webbing between the fingers, suited to aquatic life | common |
+| Scales or fins | Some accounts describe partial fish-like features including scales and fins | occasional |
+| Amautik | Carries an amautik (traditional Inuit women's parka with back hood-pouch for infants) in which abducted children are concealed | common |
+| Predominantly feminine presentation | The Qallupilluk is typically described as feminine in gender presentation | always |
 
-### Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Underwater dwelling | Lives beneath ice and in cold water | Mythological |
-| Humming/singing | Hums to lure children closer | Mythological |
-| Child detection | Knows when children are near water | Mythological |
-| Snatching | Quickly grabs children too close to water | Mythological |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Humming / ethereal song | Emits an ethereal hum from beneath the ice to lure children toward the water | always | folklore |
+| Child abduction | Snatches children who approach the ice edge and conceals them in the amautik hood-pouch | always | folklore |
+| Paralyzing shriek | Some accounts describe one flipper capable of emitting a paralyzing shriek | occasional | folklore |
+| Shapeshifting (pilutitaminik) | Possesses an ability called pilutitaminik, a form of shapeshifting | occasional | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Location**: Under ice, at ice edges, in open water
-- **Activity**: Any time children are near water
-- **Method**: Hums to attract, then snatches children
-- **Targets**: Disobedient children who wander near water alone
-- **Purpose**: Water safety education
-
----
-
-## Cultural Role
-
-### Teaching Function
-
-The Qallupilluk story serves critical child safety purposes:
-
-1. **Water Safety**: Keeps children away from dangerous ice edges
-2. **Ice Danger**: Teaches risk of falling through ice
-3. **Obedience**: Reinforces listening to parental warnings
-4. **Survival**: In Arctic environment, such lessons save lives
-
-### Real Dangers Addressed
-
-- **Ice edges**: Can break unexpectedly
-- **Open water**: Extremely cold, hypothermia risk
-- **Thin ice**: Children may not recognize danger
-- **Isolation**: Being alone near water increases risk
-
-### Parenting Tool
-
-Used by Inuit parents to:
-- Communicate serious danger effectively to children
-- Create memorable, impactful safety lessons
-- Reinforce obedience in life-threatening situations
-- Pass traditional knowledge to new generations
+- **Activity**: variable
+- **Disposition**: aggressive
+- **Social structure**: solitary
+- **Habitat**: Arctic sea ice edges, frozen coastlines, open leads in sea ice, underwater along Arctic shores
+- **Diet**: Children (in predatory accounts); some traditions describe the creature keeping children rather than harming them
 
 ---
+## Distribution
 
-## Behavioral Description
+The Qallupilluk tradition is documented in Inuit communities across Arctic Canada (especially Nunavut) and Alaska.
 
-### Hunting Method
-
-1. **Lurking**: Waits under ice near edges and open water
-2. **Humming**: Produces humming sound to attract children
-3. **Luring**: Draws curious children closer to water
-4. **Snatching**: Grabs children who come too close
-5. **Carrying**: Takes them away in amauti pouch
-
-### Target Selection
-
-Specifically targets:
-- Children who disobey parents
-- Children wandering alone near water
-- Children too close to ice edges
-- Children ignoring safety warnings
 
 ---
+## Historical Timeline
 
-## Geographic Distribution
-
-### Traditional Range
-
-- **Arctic Canada** — Nunavut and other Inuit territories
-- **Greenland** — Inuit communities
-- **Northern regions** — Where ice and water dangers exist
-
-### Environmental Context
-
-The story is told in regions where:
-- Ice edges pose real danger to children
-- Open water is common
-- Traditional Inuit parenting occurs
-- Water safety is critical
+| Date | Event | Significance |
+|---|---|---|
+| 2010-01-01 | Roselynn Akulukjuk's picture book Qalupalik, illustrated by Krista Ostertag and published by Inhabit Media, brings the legend to a broad English-language children's audience | Major contemporary popularization of the legend outside Inuit communities |
+| 2010-01-01 | The National Film Board of Canada produced an animated short Qalupalik, directed by Ame Papatsie, based on Inuit oral tradition | NFB animation brings the legend to a wider Canadian and international audience |
 
 ---
+## Theories & Explanations
 
-## Modern Presence
+### Paranormal / Cryptozoological
 
-### Contemporary Use
+**Literal water spirit** _(Traditional Inuit oral tradition)_
 
-- Still told in Inuit communities for child safety
-- Featured in modern Inuit children's books
-- Used in educational materials
-- Preserved in cultural centers
+Within Inuit belief systems, the Qallupilluk is a real spiritual entity inhabiting Arctic waters, not merely a metaphor.
 
-### Cultural Preservation
+### Skeptical
 
-Modern Inuit communities maintain this story as:
-- Living teaching tradition
-- Cultural heritage
-- Practical safety education
-- Connection to traditional knowledge
+**Protective cautionary legend** _(Folklorists, Anthropologists of Inuit culture)_
 
----
+The Qallupilluk is a culturally adaptive story that evolved to keep children away from genuinely deadly Arctic ice conditions. The threat of supernatural abduction is a more memorable and emotionally immediate deterrent than abstract warnings about ice safety.
 
-## Symbolism & Themes
 
-### Core Themes
+## Indigenous Perspectives
 
-- **Water danger** — Ice and water are deadly in Arctic
-- **Ice safety** — Teaching to avoid ice edges
-- **Consequences of disobedience** — Not listening is dangerous
-- **Parental authority** — Warnings must be heeded
-- **Arctic survival** — Traditional knowledge saves lives
-- **Childhood safety** — Protecting children through education
+> ⚠️ **This is an Indigenous cultural tradition from living communities. Contemporary tellings should involve or be guided by Inuit cultural authorities. Academic study should cite Indigenous sources directly.**
 
-### Teaching Purpose
+**Cultures**: Inuit (Nunavut, Canada), Inupiat (Alaska, USA)
 
-Creates lasting impression about water danger, more effective than simple warnings for young children.
+The Qallupilluk is part of the living oral tradition of Inuit peoples, embedded in a broader knowledge system about the Arctic environment and its spiritual dimensions. The figure should not be reduced to a 'monster story' but understood as part of a sophisticated body of ecological and spiritual knowledge.
 
----
+_Guidelines: Researchers and media producers should consult with Inuit cultural organizations. Inhabit Media (an Inuit-owned publishing house) has published child-appropriate versions of the legend with community involvement._
 
 ## Popular Culture
 
-### Literature
-- Modern Inuit children's books
-- Arctic folklore collections
-- Educational materials
+**Literature**: Qalupalik — Roselynn Akulukjuk, illustrated by Krista Ostertag (Inhabit Media, 2010)
 
-### Cultural Programs
-- Water safety education
-- Inuit cultural teaching
-- Heritage preservation
+**Film / TV**: Qalupalik — animated short film, National Film Board of Canada, directed by Ame Papatsie
+
+**Other**: Qalupalik features in Inuit cultural education programs across Nunavut
 
 ---
+## Research
 
-## Respect & Representation
 
-### Proper Context
+### Organizations
 
-When discussing Qallupilluk:
-- Acknowledge its role in child safety
-- Recognize the real dangers it addresses
-- Respect as traditional parenting wisdom
-- Consult Inuit communities for context
+- [Inhabit Media](https://inhabitmedia.com) — Inuit-owned publishing house that has published accessible accounts of Inuit legends including the Qalupalik, produced with community involvement
 
-### Avoid
-
-- Treating as merely scary story or monster
-- Divorcing from safety education purpose
-- Sensationalizing without context
-- Appropriating without acknowledging origins
-- Trivializing the real dangers it teaches about
+Anthropologists and folklorists continue to document Inuit oral traditions, including the Qallupilluk, in partnership with Inuit communities. Language preservation efforts include documentation of the legend in Inuktitut.
 
 ---
+## Sources
 
-## API Reference
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-Machine-readable data is available in [`api.json`](api.json).
 
-### Data Access
+## How to Report a Sighting
 
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const qallupilluk = await wyrd.getPhenomenon('qallupilluk');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/qallupilluk/main/api.json
-```
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Inuit oral teaching stories
-- Modern Inuit children's books
-- Studies of Inuit parenting and traditional knowledge
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-**Please respect Inuit cultural traditions and teaching practices**
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
